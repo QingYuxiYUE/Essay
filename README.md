@@ -1,4 +1,4 @@
-﻿低仿饿了么
+﻿低仿饿了么，个人练手
 ### 本地预览步骤
 
 ```
@@ -13,3 +13,5 @@ npm install
 
 # 运行 npm run dev 会在浏览器打开 localhost:8080
 npm run dev
+ 
+
